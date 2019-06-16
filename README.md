@@ -7,3 +7,4 @@ My Solutions to problems on freecodecamp.org
 * [Inventory Update](https://learn.freecodecamp.org/coding-interview-prep/algorithms/inventory-update) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/InventoryUpdate.js)
 * [No Repeats Please](https://learn.freecodecamp.org/coding-interview-prep/algorithms/no-repeats-please) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/NoRepeatsPlease.js) (Without Heaps Algorithm)
 * [Pairwise](https://learn.freecodecamp.org/coding-interview-prep/algorithms/pairwise) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/Pairwise.js)
+* [Bubble Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-bubble-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/BubbleSort.js)
