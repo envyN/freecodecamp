@@ -1,5 +1,5 @@
 # freecodecamp
-Solutions to problems on freecodecamp.org
+My Solutions to problems on freecodecamp.org
 
 ### Algorithms
 
