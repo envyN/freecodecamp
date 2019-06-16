@@ -9,3 +9,4 @@ My Solutions to problems on freecodecamp.org
 * [Pairwise](https://learn.freecodecamp.org/coding-interview-prep/algorithms/pairwise) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/Pairwise.js)
 * [Bubble Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-bubble-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/BubbleSort.js)
 * [Selection Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-selection-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/SelectionSort.js)
+* [Insertion Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-insertion-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/InsertionSort.js)
