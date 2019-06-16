@@ -5,7 +5,7 @@ My Solutions to problems on freecodecamp.org
 
 * [Find the symmetric Difference](https://learn.freecodecamp.org/coding-interview-prep/algorithms/find-the-symmetric-difference) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/FindTheSymmetricDifference.js)
 * [Inventory Update](https://learn.freecodecamp.org/coding-interview-prep/algorithms/inventory-update) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/InventoryUpdate.js)
-* [No Repeats Please](https://learn.freecodecamp.org/coding-interview-prep/algorithms/no-repeats-please) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/NoRepeatsPlease.js) (Without Heaps Algorithm)
+* [No Repeats Please](https://learn.freecodecamp.org/coding-interview-prep/algorithms/no-repeats-please) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/NoRepeatsPlease.js) (Without [Heap's Algorithm](https://en.wikipedia.org/wiki/Heap%27s_algorithm))
 * [Pairwise](https://learn.freecodecamp.org/coding-interview-prep/algorithms/pairwise) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/Pairwise.js)
 * [Bubble Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-bubble-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/BubbleSort.js)
 * [Selection Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-selection-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/SelectionSort.js)
