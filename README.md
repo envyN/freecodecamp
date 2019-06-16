@@ -8,3 +8,4 @@ My Solutions to problems on freecodecamp.org
 * [No Repeats Please](https://learn.freecodecamp.org/coding-interview-prep/algorithms/no-repeats-please) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/NoRepeatsPlease.js) (Without Heaps Algorithm)
 * [Pairwise](https://learn.freecodecamp.org/coding-interview-prep/algorithms/pairwise) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/Pairwise.js)
 * [Bubble Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-bubble-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/BubbleSort.js)
+* [Selection Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-selection-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/SelectionSort.js)
