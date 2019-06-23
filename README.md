@@ -1,5 +1,5 @@
 # freecodecamp
-My Solutions to problems on freecodecamp.org
+Solutions to problems on freecodecamp.org
 
 ### Algorithms
 
@@ -17,3 +17,4 @@ My Solutions to problems on freecodecamp.org
 * [Even Fibonacci Numbers](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/EvenFibonacciNumbers.js)
 * [Largest Prime Factor](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-3-largest-prime-factor) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/LargestPrimeFactor.js)
 * [Largest Palindrome Product](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-4-largest-palindrome-product) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/LargestPalindromeProduct.js)
+* [Smallest Multiple](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-5-smallest-multiple) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/SmallestMultiple.js)
