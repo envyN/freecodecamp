@@ -13,4 +13,5 @@ My Solutions to problems on freecodecamp.org
 
 ### Project Euler
 
-* [Even Fibonacci Numbers](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers/) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/EvenFibonacciNumbers.js)
+* [Even Fibonacci Numbers](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/EvenFibonacciNumbers.js)
+* [Largest Prime Factor](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-3-largest-prime-factor) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/LargestPrimeFactor.js)
