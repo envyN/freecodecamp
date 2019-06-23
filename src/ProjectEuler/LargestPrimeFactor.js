@@ -51,7 +51,7 @@ function largestPrimeFactor(n) {
         ++f;
     }
 
-    return largestPrimeFactor;
+    return largestPrimeFactor === 1 ? n : largestPrimeFactor;
 }
 
 Logger(1, largestPrimeFactor(2));
