@@ -10,7 +10,11 @@ Solutions to problems on freecodecamp.org
 * [Bubble Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-bubble-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/BubbleSort.js)
 * [Selection Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-selection-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/SelectionSort.js)
 * [Insertion Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-insertion-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/InsertionSort.js)
-
+* [Quick Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-quick-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/QuickSort.js) (Right Pivot) ([Ref-video](https://www.youtube.com/watch?v=COk73cpQbFQ))
+    * [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/QuickSort_alternateLoop.js) (Alternate Loop)
+    * [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/QuickSort_leftPivot.js) (Left Pivot)
+    * [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/QuickSort_randomPivot.js) (Random Pivot)
+    * [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/QuickSort_medianOfThreePivot.js) (Median of Three Pivot)
 ### Project Euler 
 #### [Link](https://projecteuler.net)
 
