@@ -15,6 +15,8 @@ Solutions to problems on freecodecamp.org
     * [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/QuickSort_leftPivot.js) (Left Pivot)
     * [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/QuickSort_randomPivot.js) (Random Pivot)
     * [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/QuickSort_medianOfThreePivot.js) (Median of Three Pivot)
+* [Merge Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-merge-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/MergeSort.js)
+
 ### Project Euler 
 #### [Link](https://projecteuler.net)
 
