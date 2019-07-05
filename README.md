@@ -26,3 +26,4 @@ Solutions to problems on freecodecamp.org
 1. [Smallest Multiple](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-5-smallest-multiple) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/SmallestMultiple.js)
 1. [Sum Square Difference](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-6-sum-square-difference/) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/SumSquareDifference.js)
 1. [10001st prime](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-7-10001st-prime) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/nthPrime.js)
+1. [Largest product in a series](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-8-largest-product-in-a-series/) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/LargestProductInSeries.js)
