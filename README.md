@@ -20,7 +20,9 @@ Solutions to problems on freecodecamp.org
 ### Project Euler 
 #### [Link](https://projecteuler.net)
 
-* [Even Fibonacci Numbers](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/EvenFibonacciNumbers.js)
-* [Largest Prime Factor](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-3-largest-prime-factor) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/LargestPrimeFactor.js)
-* [Largest Palindrome Product](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-4-largest-palindrome-product) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/LargestPalindromeProduct.js)
-* [Smallest Multiple](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-5-smallest-multiple) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/SmallestMultiple.js)
+1. [Multiples of 3 and 5](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5/) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/MultiplesOf3and5.js)
+1. [Even Fibonacci Numbers](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/EvenFibonacciNumbers.js)
+1. [Largest Prime Factor](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-3-largest-prime-factor) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/LargestPrimeFactor.js)
+1. [Largest Palindrome Product](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-4-largest-palindrome-product) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/LargestPalindromeProduct.js)
+1. [Smallest Multiple](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-5-smallest-multiple) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/SmallestMultiple.js)
+1. [Sum Square Difference](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-6-sum-square-difference/) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/SumSquareDifference.js)
