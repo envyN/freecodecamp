@@ -17,8 +17,7 @@ Solutions to problems on freecodecamp.org
     * [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/QuickSort_medianOfThreePivot.js) (Median of Three Pivot)
 * [Merge Sort](https://learn.freecodecamp.org/coding-interview-prep/algorithms/implement-merge-sort) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/Algorithms/MergeSort.js)
 
-### Project Euler 
-#### [Link](https://projecteuler.net)
+### [Project Euler](https://projecteuler.net)
 
 1. [Multiples of 3 and 5](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5/) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/MultiplesOf3and5.js)
 1. [Even Fibonacci Numbers](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/EvenFibonacciNumbers.js)
@@ -26,3 +25,4 @@ Solutions to problems on freecodecamp.org
 1. [Largest Palindrome Product](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-4-largest-palindrome-product) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/LargestPalindromeProduct.js)
 1. [Smallest Multiple](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-5-smallest-multiple) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/SmallestMultiple.js)
 1. [Sum Square Difference](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-6-sum-square-difference/) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/SumSquareDifference.js)
+1. [10001st prime](https://learn.freecodecamp.org/coding-interview-prep/project-euler/problem-7-10001st-prime) - [Solution](https://github.com/envyN/freecodecamp/blob/master/src/ProjectEuler/nthPrime.js)
